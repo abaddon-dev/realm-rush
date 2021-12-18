@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 06b7de50780c819498d8b20e5ad68b24
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fette National Fraktur
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24135a2c0f8d9cf42a393f82c56b7f8e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
