@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 5040643765344069697, guid: b940df629b09f434dbb9fd487257db6c, type: 3}
-  poolSize: 1
+  poolSize: 5
   spawnTimer: 2.5
 --- !u!114 &781570251
 MonoBehaviour:
@@ -59,5 +59,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ba7cfb65b9806240b8b88489346acaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startCoordinates: {x: 1, y: 1}
-  destinationCoordinates: {x: 5, y: 4}
+  startCoordinates: {x: 0, y: 2}
+  destinationCoordinates: {x: 9, y: 7}
