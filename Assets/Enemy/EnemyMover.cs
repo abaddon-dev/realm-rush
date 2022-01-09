@@ -66,7 +66,7 @@ public class EnemyMover : MonoBehaviour
 
             transform.LookAt(endPosition);
 
-            while(travelPercent < 1)
+            while(travelPercent < 1f)
             {
                 travelPercent += Time.deltaTime * speed;    
                 transform.position = Vector3.Lerp(startPosition, endPosition, travelPercent);
